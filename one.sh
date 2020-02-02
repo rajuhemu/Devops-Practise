@@ -1,3 +1,4 @@
 echo "hello world"
-echo "hi"
-echo "hello"
+echo "this is raju"
+echo "Devops tutorial"
+echo "hi venky"
